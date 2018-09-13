@@ -1,7 +1,11 @@
 #navbar {
   position: fixed;
+  width: 100%;
   top: 0px;
   background-color: gray;
+}
+
+#navbar.a {
   color: white;
 }
 
