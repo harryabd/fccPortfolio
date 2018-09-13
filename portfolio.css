@@ -1,6 +1,8 @@
 #navbar {
   position: fixed;
   top: 0px;
+  background-color: gray;
+  color: white;
 }
 
 #welcome-section {
