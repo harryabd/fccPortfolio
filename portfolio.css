@@ -1,9 +1,17 @@
 #navbar {
-  position = fixed;
+  position: fixed;
   top: 0px;
+}
+
+#welcome-section {
+  height: 100vh;
 }
 
 .body {
   position: relative;
-  top 0px;
+  top: 0px;
+}
+
+@media only screen and (min-width: 768px) {
+  background-color: gray;
 }
